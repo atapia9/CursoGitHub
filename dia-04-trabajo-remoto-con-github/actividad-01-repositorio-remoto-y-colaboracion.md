@@ -46,3 +46,5 @@ Especificar versión mínima de Node requerida (v18+)
 | Autenticación y conexión remota | SSH (o PAT) configurado y funcional; el repositorio remoto refleja el historial local completo. | 2 |
 | Ciclo de colaboración completo | Existen un Issue y un Pull Request reales, con al menos un comentario de revisión de otra persona antes de la fusión. | 3 |
 *(Los 3 puntos restantes del entregable del día están en la Actividad 2 — Proyecto Integrador, Pasos 7 y 8.)*
+
+> **Criterios completos:** la escala de puntos de este entregable, la evidencia que se considera válida y el checklist de autoevaluación están en la [Guía de Evaluación del Proyecto Integrador Final](../GUIA-EVALUACION-PROYECTO-INTEGRADOR.md).

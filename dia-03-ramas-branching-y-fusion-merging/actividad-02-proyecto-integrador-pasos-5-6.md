@@ -57,3 +57,5 @@ queda como respaldo para quien use un cliente de correo distinto.
 | Avance del Proyecto Integrador | La política de MFA y el protocolo de phishing reflejan el conflicto resuelto de forma coherente con el resto de la guía. | 1 |
 | Entrega en tiempo y forma | Se presenta al cierre de la sesión, con evidencia clara del antes y después del conflicto. | 1 |
 **Siguiente paso:** Día 4, Actividad 2 — subir `guia-seguridad-soporte` a GitHub como repositorio privado y abrir el primer Pull Request revisado.
+
+> **Criterios completos:** la escala de puntos de este entregable, la evidencia que se considera válida y el checklist de autoevaluación están en la [Guía de Evaluación del Proyecto Integrador Final](../GUIA-EVALUACION-PROYECTO-INTEGRADOR.md).

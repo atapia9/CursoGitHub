@@ -67,3 +67,5 @@ forzada, incluso si tiene commits que no se fusionaron en ningún lado —
 | Manejo de ramas y fusiones | Existen ambos tipos de fusión (fast-forward y recursiva), correctamente identificados en el historial. | 3 |
 | Resolución de conflictos | El conflicto fue provocado y resuelto de forma correcta, sin pérdida accidental de información, y documentado en el commit de fusión. | 3 |
 *(Los 2 puntos restantes del entregable del día están en la Actividad 2 — Proyecto Integrador, Pasos 5 y 6.)*
+
+> **Criterios completos:** la escala de puntos de este entregable, la evidencia que se considera válida y el checklist de autoevaluación están en la [Guía de Evaluación del Proyecto Integrador Final](../GUIA-EVALUACION-PROYECTO-INTEGRADOR.md).

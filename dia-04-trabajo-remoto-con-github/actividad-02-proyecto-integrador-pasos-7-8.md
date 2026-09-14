@@ -44,3 +44,5 @@ Ejemplo de justificación de por qué el repositorio es privado (para incluir en
 | Configuración de privacidad adecuada | El repositorio `guia-seguridad-soporte` está correctamente marcado como privado, justificando por qué. | 2 |
 | Entrega en tiempo y forma | Los enlaces se comparten al cierre de la sesión y son accesibles. | 1 |
 **Siguiente paso:** Día 5, Actividad 2 — simular un incidente de exposición de credenciales y publicar la guía final con GitHub Pages.
+
+> **Criterios completos:** la escala de puntos de este entregable, la evidencia que se considera válida y el checklist de autoevaluación están en la [Guía de Evaluación del Proyecto Integrador Final](../GUIA-EVALUACION-PROYECTO-INTEGRADOR.md).

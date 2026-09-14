@@ -64,3 +64,5 @@ guia-seguridad-soporte/
 | Avance del Proyecto Integrador | Los tres documentos de política existen como commits separados y con contenido coherente con el curso de ciberseguridad. | 2 |
 | Entrega en tiempo y forma | Se presenta al cierre de la sesión, con el historial visible y legible. | 1 |
 **Siguiente paso:** Día 3, Actividad 2 — fusionar la política de MFA y resolver un conflicto real en el protocolo de phishing.
+
+> **Criterios completos:** la escala de puntos de este entregable, la evidencia que se considera válida y el checklist de autoevaluación están en la [Guía de Evaluación del Proyecto Integrador Final](../GUIA-EVALUACION-PROYECTO-INTEGRADOR.md).

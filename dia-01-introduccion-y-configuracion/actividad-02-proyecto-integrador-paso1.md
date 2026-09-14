@@ -41,3 +41,5 @@ Ejemplo de nota de justificación:
 | Configuración local del proyecto integrador | El repositorio `guia-seguridad-soporte` existe y declara una identidad local propia, distinta o igual a la global pero explícita. | 2 |
 | Entrega en tiempo y forma | Se presenta al cierre de la sesión, con las capturas legibles y completas. | 1 |
 **Siguiente paso:** Día 2, Actividad 2 — construir la estructura inicial del repositorio (README, `.gitignore` y las tres políticas de seguridad).
+
+> **Criterios completos:** la escala de puntos de este entregable, la evidencia que se considera válida y el checklist de autoevaluación están en la [Guía de Evaluación del Proyecto Integrador Final](../GUIA-EVALUACION-PROYECTO-INTEGRADOR.md).
