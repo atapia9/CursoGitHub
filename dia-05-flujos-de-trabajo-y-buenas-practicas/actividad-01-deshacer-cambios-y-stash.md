@@ -41,3 +41,5 @@ Nótese que el commit original **sigue existiendo** en el historial: `revert` no
 | Manejo de deshacer cambios | Uso correcto y diferenciado de `restore`, `reset` y `revert`, según el escenario que corresponde a cada uno. | 2 |
 | Publicación del sitio | El sitio está publicado, es accesible públicamente y no contiene datos sensibles. *(evaluado junto con la Actividad 2)* | 2 |
 *(Los 4 puntos restantes del entregable del día están en la Actividad 2 — Proyecto Integrador, Pasos 9 y 10.)*
+
+> **Criterios completos:** la escala de puntos de este entregable, la evidencia que se considera válida y el checklist de autoevaluación están en la [Guía de Evaluación del Proyecto Integrador Final](../GUIA-EVALUACION-PROYECTO-INTEGRADOR.md).

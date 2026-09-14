@@ -70,3 +70,5 @@ sea algo que el equipo realmente use y mantenga actualizado.
 | Comprensión del incidente de seguridad simulado | La explicación distingue correctamente entre "borrar del historial" y "la credencial ya fue expuesta y debe rotarse". | 3 |
 | Reflexión de cierre | La reflexión conecta explícitamente contenidos de ambos cursos, no es genérica. | 1 |
 **Este es el último paso.** Con el Día 5 completo, el Proyecto Integrador Final queda cerrado: `guia-seguridad-soporte` documenta, versiona, revisa y publica una guía real de ciberseguridad usando exactamente el flujo de trabajo enseñado en las cinco sesiones del curso.
+
+> **Criterios completos:** la escala de puntos de este entregable, la evidencia que se considera válida y el checklist de autoevaluación están en la [Guía de Evaluación del Proyecto Integrador Final](../GUIA-EVALUACION-PROYECTO-INTEGRADOR.md).

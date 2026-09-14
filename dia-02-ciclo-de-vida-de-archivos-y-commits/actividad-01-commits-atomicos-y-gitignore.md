@@ -60,3 +60,5 @@ nothing to commit, working tree clean
 | Atomicidad y calidad de los commits | Cada commit representa un cambio único, con mensaje claro; no hay commits genéricos tipo "cambios". | 3 |
 | `.gitignore` aplicado correctamente | El archivo excluye lo pertinente y el participante explica por qué esos archivos no deben versionarse. | 2 |
 *(Los 3 puntos restantes del entregable del día están en la Actividad 2 — Proyecto Integrador, Pasos 2 a 4.)*
+
+> **Criterios completos:** la escala de puntos de este entregable, la evidencia que se considera válida y el checklist de autoevaluación están en la [Guía de Evaluación del Proyecto Integrador Final](../GUIA-EVALUACION-PROYECTO-INTEGRADOR.md).
